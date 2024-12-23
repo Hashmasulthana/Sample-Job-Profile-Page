@@ -1,0 +1,28 @@
+.Card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 15px;
+    width: 300px;
+    text-align: left;
+  }
+  
+  .Card h2 {
+    margin-top: 0;
+  }
+  
+  .Card button {
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .Card button:hover {
+    background-color: #005bb5;
+  }
+  
